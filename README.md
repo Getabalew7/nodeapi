@@ -28,8 +28,8 @@ How to access the urls
 4. http://localhost:3000/api/users:id Delete or Edit user
     
 ## Screenshots
+![image](https://user-images.githubusercontent.com/60742895/177057981-a226bd73-888b-4da1-9b66-e1ae83bae88d.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Author
