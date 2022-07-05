@@ -30,7 +30,7 @@ export const getSingleUser= function(req, res){
 }
 export const deleteUser = function(req,res){
     let id=req.params.id
-
+//
     let user= users.filter(user=>user.id!=id)
     res.json(user)
 }
